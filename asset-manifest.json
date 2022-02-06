@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/react-MonView/static/js/main.daf2afad.chunk.js",
+    "main.js.map": "/react-MonView/static/js/main.daf2afad.chunk.js.map",
+    "runtime-main.js": "/react-MonView/static/js/runtime-main.7db13062.js",
+    "runtime-main.js.map": "/react-MonView/static/js/runtime-main.7db13062.js.map",
+    "static/js/2.b3917719.chunk.js": "/react-MonView/static/js/2.b3917719.chunk.js",
+    "static/js/2.b3917719.chunk.js.map": "/react-MonView/static/js/2.b3917719.chunk.js.map",
+    "index.html": "/react-MonView/index.html",
+    "static/js/2.b3917719.chunk.js.LICENSE.txt": "/react-MonView/static/js/2.b3917719.chunk.js.LICENSE.txt",
+    "static/media/appleLogo.ec3b8ba6.svg": "/react-MonView/static/media/appleLogo.ec3b8ba6.svg",
+    "static/media/faceBookLogo.5be01c01.svg": "/react-MonView/static/media/faceBookLogo.5be01c01.svg",
+    "static/media/googleLogo.d7184eed.svg": "/react-MonView/static/media/googleLogo.d7184eed.svg",
+    "static/media/kakaoLogo.af437b99.svg": "/react-MonView/static/media/kakaoLogo.af437b99.svg",
+    "static/media/lineLogo.5d8d5afa.svg": "/react-MonView/static/media/lineLogo.5d8d5afa.svg",
+    "static/media/tweeterLogo.b905b5f9.svg": "/react-MonView/static/media/tweeterLogo.b905b5f9.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7db13062.js",
+    "static/js/2.b3917719.chunk.js",
+    "static/js/main.daf2afad.chunk.js"
+  ]
+}
